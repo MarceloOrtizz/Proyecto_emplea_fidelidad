@@ -1,1 +1,146 @@
-# Proyecto_emplea_fidelidad
+# <a name="readme-top"></a>
+
+# <h1 align="center">*EmpleaFidelidad*</h1>
+
+<!-- <p align="center">
+  <img src="images/logo_EmpleaFidelidad.jpeg"  height="300">
+<p align="center"> -->
+<p align="center">
+  <img src="images/EmpleaFidelidad.png"  height="500">
+<p align="center">
+
+
+## *Índice de Contenidos*
+
+- [Introducción](#introducción)
+- [Etapas](#etapas)
+  - [Sprint 1](#sprint-1)
+  - [Sprint 2](#sprint-2)
+  - [Sprint 3](#sprint-3)
+- [Fuentes de datos](#fuentes-de-datos)
+- [Colaboradores](#colaboradores)
+- [Tecnologías](#tecnologías)
+- [Enlaces del Proyecto](#enlaces-del-proyecto)
+
+
+## *Introducción*
+
+## *Etapas*
+
+### *Sprint 1*
+### *Sprint 2*
+### *Sprint 3*
+
+## *Fuentes de datos*
+
+
+<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
+
+## *Colaboradores*
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Matias Ponce</b></td>
+    <td align="center"><b>Francisco Vela</b></td>
+    <td align="center"><b>Marcelo Ortiz</b></td>
+    <td align="center"><b>Dayana Vega</b></td>        
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/matias-leonel-ponce-duarte/"><img src="images/matias.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/franciscovelaflores/"><img src="images/francisco.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/marceloortizz/"><img src="images/marcelo.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/dayanavegam/"><img src="images/dayana.jpg" width=48 style="border-radius:50%"></a></td>
+  </tr>
+  <tr>
+    <td align="center">PM / Data Engineer</td>
+    <td align="center">Data Analyst</td>
+    <td align="center">Data Analyst</td>
+    <td align="center">Data Scientist</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/PrismaPsy"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
+    <td align="center"><a href="https://github.com/cisco-vf"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"> </a></td>
+    <td align="center"><a href="https://github.com/marceloortizz"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
+    <td align="center"><a href="https://github.com/Dayveg"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/matias-leonel-ponce-duarte/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/franciscovelaflores/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"> </a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/marceloortizz/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/dayanavegam/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Gerardo Toso</b></td>
+    <td align="center"><b>David Ramirez</b></td>
+    <td align="center"><b>Daniel Ceballos</b></td>
+    <td align="center"><b>Veronica Molinari</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/gerardo-jose-toso/"><img src="images/gerardo.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/edavid-ramirez/"><img src="images/david.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/dceballosm/"><img src="images/daniel.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/veronica-molinari/"><img src="images/veronica.jpg" width=48 style="border-radius:50%"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Data Scientist</td>
+    <td align="center">ML Engineer</td>
+    <td align="center">ML Engineer</td>
+    <td align="center">Team Leader</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/GerardoToso"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
+    <td align="center"><a href="https://github.com/keoopx"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
+    <td align="center"><a href="https://github.com/dceballosm"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
+    <td align="center"><a href="https://github.com/veritoa45"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/gerardo-jose-toso/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/edavid-ramirez/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/dceballosm/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/veronica-molinari/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+  </tr>
+</table>
+
+<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
+
+## *Tecnologías*
+
+[![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
+
+[![Python](https://img.shields.io/badge/Language-Python-blue)](https://www.python.org/)
+
+[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)
+
+[![Pandas](https://img.shields.io/badge/Library-Pandas-brightgreen)](https://pandas.pydata.org/)
+
+[![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue)](https://matplotlib.org/)
+
+[![Seaborn](https://img.shields.io/badge/Library-Seaborn-yellow)](https://seaborn.pydata.org/)
+
+[![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-red)](https://scikit-learn.org/)
+
+[![Streamlit](https://img.shields.io/badge/Framework-Streamlit-purple)](https://streamlit.io/)
+
+[![Vercel](https://img.shields.io/badge/Platform-Vercel-black)](https://vercel.com/)
+
+[![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
+
+[![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
+
+[![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
+
+[![Discord](https://img.shields.io/badge/Chat-Discord-blueviolet)](https://discord.com/)
+
+[![Slack](https://img.shields.io/badge/Chat-Slack-4A154B)](https://slack.com/)
+
+[![Jira](https://img.shields.io/badge/Project%20Management-Jira-blue)](https://www.atlassian.com/software/jira)
+
+
+
+## *Enlaces del Proyecto*
+
+<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
+
