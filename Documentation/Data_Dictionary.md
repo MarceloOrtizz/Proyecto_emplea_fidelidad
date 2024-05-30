@@ -1,5 +1,8 @@
 ### Data Dictionary of Variables
 
+
+Fuente de datos: [IBM-HR-Analytics](https://github.com/denistanjingyu/IBM-HR-Analytics/blob/master/Data/ibm.clean.csv)
+
 | Variable Name            | Description                                                                                          | Metric                                                           |
 |--------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 | Age                      | Total years lived by the employee.                                                                   |                                                                  |
