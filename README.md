@@ -1,16 +1,15 @@
 # <a name="readme-top"></a>
 
-# <h1 align="center">*EmpleaFidelidad*</h1>
+# <h1 align="center">_EmpleaFidelidad_</h1>
 
 <!-- <p align="center">
   <img src="images/logo_EmpleaFidelidad.jpeg"  height="300">
 <p align="center"> -->
 <p align="center">
-  <img src="images/EmpleaFidelidad.png"  height="500">
+  <img src="Resources/Images/Repository Resources/EmpleaFidelidad.png"  height="500">
 <p align="center">
 
-
-## *Índice de Contenidos*
+## _Índice de Contenidos_
 
 - [Introducción](#introducción)
 - [Etapas](#etapas)
@@ -22,21 +21,29 @@
 - [Tecnologías](#tecnologías)
 - [Enlaces del Proyecto](#enlaces-del-proyecto)
 
+## _Introducción_
 
-## *Introducción*
+## _Etapas_
 
-## *Etapas*
+### _Sprint 1_
 
-### *Sprint 1*
-### *Sprint 2*
-### *Sprint 3*
+### _Sprint 2_
 
-## *Fuentes de datos*
+### _Sprint 3_
 
+## _Fuentes de datos_
 
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
 
-## *Colaboradores*
+## _Diagrama de Gantt_
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="Resources/Images/Diagrama de Gantt/Incidencias Primarias.png" style="border-radius:0%">
+  </tr>
+</table>
+
+## _Colaboradores_
 
 <table align="center">
   <tr>
@@ -46,10 +53,10 @@
     <td align="center"><b>Dayana Vega</b></td>        
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/matias-leonel-ponce-duarte/"><img src="images/matias.jpg" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/franciscovelaflores/"><img src="images/francisco.jpg" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/marceloortizz/"><img src="images/marcelo.jpg" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/dayanavegam/"><img src="images/dayana.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/matias-leonel-ponce-duarte/"><img src="Resources/Images/Contributors/matias.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/franciscovelaflores/"><img src="Resources/Images/Contributors/francisco.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/marceloortizz/"><img src="Resources/Images/Contributors/marcelo.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/dayanavegam/"><img src="Resources/Images/Contributors/dayana.jpg" width=48 style="border-radius:50%"></a></td>
   </tr>
   <tr>
     <td align="center">PM / Data Engineer</td>
@@ -79,10 +86,10 @@
     <td align="center"><b>Veronica Molinari</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/gerardo-jose-toso/"><img src="images/gerardo.jpg" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/edavid-ramirez/"><img src="images/david.jpg" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/dceballosm/"><img src="images/daniel.jpg" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/veronica-molinari/"><img src="images/veronica.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/gerardo-jose-toso/"><img src="Resources/Images/Contributors/gerardo.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/edavid-ramirez/"><img src="Resources/Images/Contributors/david.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/dceballosm/"><img src="Resources/Images/Contributors/daniel.jpg" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/veronica-molinari/"><img src="Resources/Images/Contributors/veronica.jpg" width=48 style="border-radius:50%"></a></td>
   </tr>
   <tr>
     <td align="center">Data Scientist</td>
@@ -106,7 +113,7 @@
 
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
 
-## *Tecnologías*
+## _Tecnologías_
 
 [![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
 
@@ -138,9 +145,6 @@
 
 [![Jira](https://img.shields.io/badge/Project%20Management-Jira-blue)](https://www.atlassian.com/software/jira)
 
-
-
-## *Enlaces del Proyecto*
+## _Enlaces del Proyecto_
 
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
-
