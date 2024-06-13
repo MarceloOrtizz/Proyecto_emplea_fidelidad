@@ -21,17 +21,19 @@
 - [Tecnologías](#tecnologías)
 - [Enlaces del Proyecto](#enlaces-del-proyecto)
 
-## _Introducción_
+## _Contexto y Problemática_
+ Hoy en día, la retención de empleados se ha convertido en una de las principales preocupaciones para las empresas. La alta rotación de personal no solo representa costos significativos en términos de reclutamiento y capacitación, sino que también afecta negativamente la moral del equipo y la productividad general. Las organizaciones que no logran retener a sus empleados ierden talento valioso y enfrentan desafíos adicionales para mantener la continuidad en sus operaciones.
 
-## _Etapas_
+##  _Impacto de la Problemática_
 
-### _Sprint 1_
+ La incapacidad de retener a los empleados puede llevar a una serie de problemas, incluyendo:
 
-### _Sprint 2_
+ **Aumento de Costos**: Gastos en reclutamiento, formación de nuevos empleados y pérdida de productividad durante el período de adaptación.
+ **Pérdida de Conocimiento**: Los empleados que se marchan llevan consigo el conocimiento adquirido sobre los procesos y la cultura de la empresa.
+ **Desmoralización del Equipo**: La salida frecuente de colegas puede afectar la moral y la motivación del equipo restante.
 
-### _Sprint 3_
-
-## _Fuentes de datos_
+## _Objetivo del Proyecto_
+ El objetivo principal de este proyecto es analizar los datos de recursos humanos para identificar los factores que influyen en la retención de empleados y desarrollar estrategias efectivas para mejorar la retención.
 
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
 
