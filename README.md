@@ -11,13 +11,13 @@
 
 ## _Índice de Contenidos_
 
-- [Introducción](#introducción)
-- [Etapas](#etapas)
-  - [Sprint 1](#sprint-1)
-  - [Sprint 2](#sprint-2)
-  - [Sprint 3](#sprint-3)
+- [Contexto y Problemática](#contexto-y-problemática)
+- [Impacto de la Problemática](#impacto-de-la-problemática)
+- [Objetivo del Proyecto](#objetivo-del-proyecto)
+- [Conclusión](#conclusión)
 - [Fuentes de datos](#fuentes-de-datos)
 - [Diagrama de Gantt](#diagrama-de-gantt)
+- [Dashboard](#dashboard)
 - [Colaboradores](#colaboradores)
 - [Tecnologías](#tecnologías)
 - [Enlaces del Proyecto](#enlaces-del-proyecto)
@@ -53,6 +53,29 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="Resources\Images\Diagrama de Gantt\incidencias Secundarias.png" style="border-radius:0%">
+  </tr>
+</table>
+
+<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
+
+## _Dashboard_
+
+<div style="display: flex; justify-content: center;">
+    <div>
+        <p align="center"><img src="Resources\Images\Repository Resources\dashboard.gif"></p>
+        <p align="center"><img src="Resources\Images\Repository Resources\nube.gif"></p>
+    </div>
+    <div>
+        <p align="center"><img src="Resources\Images\Repository Resources\empleo.gif"></p>
+        <p align="center"><img src="Resources\Images\Repository Resources\equipo.gif"></p>
+    </div>
+</div>
+
+<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
+
 ## _Colaboradores_
 
 <table align="center">
@@ -60,31 +83,26 @@
     <td align="center"><b>Matias Ponce</b></td>
     <td align="center"><b>Francisco Vela</b></td>
     <td align="center"><b>Marcelo Ortiz</b></td>
-    <td align="center"><b>Dayana Vega</b></td>        
   </tr>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/matias-leonel-ponce-duarte/"><img src="Resources/Images/Contributors/matias.jpg" width=48 style="border-radius:50%"></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/franciscovelaflores/"><img src="Resources/Images/Contributors/francisco.jpg" width=48 style="border-radius:50%"></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/marceloortizz/"><img src="Resources/Images/Contributors/marcelo.jpg" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/dayanavegam/"><img src="Resources/Images/Contributors/dayana.jpg" width=48 style="border-radius:50%"></a></td>
   </tr>
   <tr>
     <td align="center">PM / Data Engineer</td>
     <td align="center">Data Analyst</td>
     <td align="center">Data Analyst</td>
-    <td align="center">Data Scientist</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PrismaPsy"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
     <td align="center"><a href="https://github.com/cisco-vf"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"> </a></td>
     <td align="center"><a href="https://github.com/marceloortizz"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
-    <td align="center"><a href="https://github.com/Dayveg"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/matias-leonel-ponce-duarte/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/franciscovelaflores/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"> </a></td>
     <td align="center"><a href="https://www.linkedin.com/in/marceloortizz/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/dayanavegam/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
   </tr>
 </table>
 
@@ -140,8 +158,6 @@
 [![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-red)](https://scikit-learn.org/)
 
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-purple)](https://streamlit.io/)
-
-[![Vercel](https://img.shields.io/badge/Platform-Vercel-black)](https://vercel.com/)
 
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 
