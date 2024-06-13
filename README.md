@@ -17,6 +17,7 @@
   - [Sprint 2](#sprint-2)
   - [Sprint 3](#sprint-3)
 - [Fuentes de datos](#fuentes-de-datos)
+- [Diagrama de Gantt](#diagrama-de-gantt)
 - [Colaboradores](#colaboradores)
 - [Tecnologías](#tecnologías)
 - [Enlaces del Proyecto](#enlaces-del-proyecto)
