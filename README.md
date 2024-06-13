@@ -30,11 +30,18 @@
  La incapacidad de retener a los empleados puede llevar a una serie de problemas, incluyendo:
 
  **Aumento de Costos**: Gastos en reclutamiento, formación de nuevos empleados y pérdida de productividad durante el período de adaptación.
+
  **Pérdida de Conocimiento**: Los empleados que se marchan llevan consigo el conocimiento adquirido sobre los procesos y la cultura de la empresa.
+ 
  **Desmoralización del Equipo**: La salida frecuente de colegas puede afectar la moral y la motivación del equipo restante.
 
 ## _Objetivo del Proyecto_
  El objetivo principal de este proyecto es analizar los datos de recursos humanos para identificar los factores que influyen en la retención de empleados y desarrollar estrategias efectivas para mejorar la retención.
+
+ ## _Conclusión_
+ El análisis de retención de empleados proporciona una oportunidad invaluable para que las empresas comprendan mejor las razones detrás de la rotación de personal y tomen
+ medidas proactivas para mejorar la satisfacción y retención de sus empleados. Con un enfoque basado en datos y el uso de modelos de machine learning, se pueden
+ desarrollar estrategias efectivas que no solo mejoren la retención, sino que también contribuyan al crecimiento y éxito a largo plazo de la empresa.
 
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
 
