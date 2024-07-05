@@ -173,4 +173,8 @@
 
 ## _Enlaces del Proyecto_
 
+Streamlit: https://apptest-5qfhecjkdkypasoz2uxlv6.streamlit.app
+
+Power BI: https://acortar.link/EmpleaFidelidad
+
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
